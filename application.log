@@ -1,0 +1,110 @@
+2024-12-15 18:04:07,870:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:04:07,870:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:04:14,592:ERROR:Invalid registration type selected: ''.
+2024-12-15 18:04:18,707:ERROR:Invalid registration type selected: ''.
+2024-12-15 18:24:01,520:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:24:01,520:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:24:05,328:ERROR:Invalid registration type selected: ''.
+2024-12-15 18:24:12,933:ERROR:Invalid registration type selected: ''.
+2024-12-15 18:24:20,228:WARNING:Authentication failed for user: admin
+2024-12-15 18:24:20,228:WARNING:Authentication failed for user: admin
+2024-12-15 18:24:21,373:WARNING:Failed login attempt for username: 'admin'.
+2024-12-15 18:35:10,051:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:35:10,051:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:35:14,880:ERROR:Invalid registration type selected: ''.
+2024-12-15 18:42:02,315:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:44:02,985:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:46:39,729:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:46:42,649:DEBUG:Retrieved 0 users from the database.
+2024-12-15 18:47:57,168:DEBUG:Retrieved 1 users from the database.
+2024-12-15 18:47:59,505:DEBUG:Retrieved 1 users from the database.
+2024-12-15 18:48:29,463:DEBUG:Retrieved 1 users from the database.
+2024-12-15 18:52:09,682:DEBUG:Database connected and tables created if not existing.
+2024-12-15 18:52:12,308:DEBUG:Retrieved 1 users from the database.
+2024-12-15 18:52:13,191:DEBUG:Retrieved 1 users from the database.
+2024-12-15 18:52:13,367:DEBUG:Retrieved 1 users from the database.
+2024-12-15 18:52:13,540:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:05:29,836:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:05:34,711:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:05:35,601:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:05:35,893:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:05:41,697:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:13:27,927:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:13:36,071:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:13:38,228:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:13:45,921:DEBUG:Retrieved 1 users from the database.
+2024-12-15 19:14:21,483:DEBUG:Retrieved 2 users from the database.
+2024-12-15 19:14:24,087:DEBUG:Retrieved 2 users from the database.
+2024-12-15 19:14:57,957:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:15:45,389:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:15:48,306:DEBUG:Retrieved 3 users from the database.
+2024-12-15 19:16:54,728:DEBUG:Retrieved 3 users from the database.
+2024-12-15 19:17:02,114:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:17:40,341:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:17:43,285:DEBUG:Retrieved 4 users from the database.
+2024-12-15 19:17:54,791:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:18:52,851:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:18:54,978:DEBUG:Retrieved 5 users from the database.
+2024-12-15 19:19:09,342:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:28:33,958:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:29:13,797:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:29:21,423:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:29:24,245:DEBUG:Retrieved 6 users from the database.
+2024-12-15 19:29:47,737:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:36:38,034:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:36:47,849:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:37:26,381:DEBUG:Retrieved 7 users from the database.
+2024-12-15 19:39:56,221:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:40:05,978:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:40:08,737:DEBUG:Retrieved 7 users from the database.
+2024-12-15 19:40:32,050:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:40:40,011:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:40:43,060:DEBUG:Retrieved 7 users from the database.
+2024-12-15 19:49:49,553:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:49:57,194:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:53:44,033:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:53:51,721:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:56:47,115:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:56:55,757:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:57:58,889:DEBUG:Database connected and tables created if not existing.
+2024-12-15 19:58:06,001:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:02:02,868:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:02:09,584:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:04:07,928:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:04:15,203:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:11:04,252:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:11:14,563:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:14:13,503:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:14:23,482:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:15:28,265:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:15:38,673:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:21:33,982:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:21:42,214:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:24:09,120:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:24:16,194:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:26:07,494:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:26:20,589:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:28:35,242:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:28:42,915:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:40:38,010:DEBUG:Database connected and tables created if not existing.
+2024-12-15 20:40:47,932:DEBUG:Database connected and tables created if not existing.
+2024-12-15 23:07:05,640:DEBUG:Database connected and tables created if not existing.
+2024-12-15 23:08:10,188:DEBUG:Database connected and tables created if not existing.
+2024-12-15 23:09:08,924:DEBUG:Retrieved 8 users from the database.
+2024-12-15 23:11:43,481:DEBUG:Retrieved 8 users from the database.
+2024-12-16 10:51:11,566:DEBUG:Database connected and tables created if not existing.
+2024-12-16 10:51:24,084:DEBUG:Database connected and tables created if not existing.
+2024-12-16 10:51:26,874:DEBUG:Retrieved 8 users from the database.
+2024-12-16 10:51:34,996:DEBUG:Retrieved 8 users from the database.
+2024-12-16 10:58:10,286:DEBUG:Database connected and tables created if not existing.
+2024-12-16 10:58:22,512:DEBUG:Database connected and tables created if not existing.
+2024-12-16 11:07:31,050:DEBUG:Database connected and tables created if not existing.
+2024-12-16 11:07:39,113:DEBUG:Database connected and tables created if not existing.
+2024-12-16 11:32:54,053:DEBUG:Database connected and tables created if not existing.
+2024-12-16 11:33:01,484:DEBUG:Database connected and tables created if not existing.
+2024-12-16 11:35:30,823:DEBUG:Retrieved 8 users from the database.
+2024-12-16 13:31:51,156:DEBUG:Database connected and tables created if not existing.
+2024-12-16 13:31:59,667:DEBUG:Database connected and tables created if not existing.
+2024-12-16 13:32:49,558:DEBUG:Retrieved 8 users from the database.
+2024-12-16 13:33:36,034:DEBUG:Retrieved 9 users from the database.
+2024-12-16 13:33:38,608:DEBUG:Retrieved 9 users from the database.
