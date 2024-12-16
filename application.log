@@ -108,3 +108,96 @@
 2024-12-16 13:32:49,558:DEBUG:Retrieved 8 users from the database.
 2024-12-16 13:33:36,034:DEBUG:Retrieved 9 users from the database.
 2024-12-16 13:33:38,608:DEBUG:Retrieved 9 users from the database.
+2024-12-16 14:09:46,005:DEBUG:Database connected and tables created if not existing.
+2024-12-16 14:09:54,220:DEBUG:Database connected and tables created if not existing.
+2024-12-16 14:26:09,457:DEBUG:Database connected and tables created if not existing.
+2024-12-16 14:26:20,272:DEBUG:Database connected and tables created if not existing.
+2024-12-16 15:22:16,981:DEBUG:Database connected and tables created if not existing.
+2024-12-16 15:22:25,915:DEBUG:Database connected and tables created if not existing.
+2024-12-16 16:17:51,366:DEBUG:Database connected and tables created if not existing.
+2024-12-16 16:18:01,303:DEBUG:Database connected and tables created if not existing.
+2024-12-16 16:27:03,163:DEBUG:Database connected and tables created if not existing.
+2024-12-16 16:27:14,295:DEBUG:Database connected and tables created if not existing.
+2024-12-16 16:28:56,924:DEBUG:Retrieved 9 users from the database.
+2024-12-16 17:17:27,518:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:17:38,767:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,689:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,692:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,695:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,696:WARNING:No user found with ID: 1
+2024-12-16 17:27:17,699:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,702:INFO:User ID 1 deleted successfully.
+2024-12-16 17:27:17,705:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,707:DEBUG:Retrieved 0 users from the database.
+2024-12-16 17:27:17,712:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,715:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,717:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,720:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,721:WARNING:No user found with ID: 1
+2024-12-16 17:27:17,724:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:27:17,735:INFO:User ID 1 updated: email set to new@example.com
+2024-12-16 17:27:17,738:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,163:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,166:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,169:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,171:WARNING:No user found with ID: 1
+2024-12-16 17:28:12,173:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,177:INFO:User ID 1 deleted successfully.
+2024-12-16 17:28:12,179:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,183:DEBUG:Retrieved 0 users from the database.
+2024-12-16 17:28:12,187:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,190:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,193:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,196:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,198:WARNING:No user found with ID: 1
+2024-12-16 17:28:12,201:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:28:12,214:INFO:User ID 1 updated: email set to new@example.com
+2024-12-16 17:28:12,217:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,579:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,582:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,585:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,586:WARNING:No user found with ID: 1
+2024-12-16 17:29:32,589:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,592:INFO:User ID 1 deleted successfully.
+2024-12-16 17:29:32,594:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,598:DEBUG:Retrieved 0 users from the database.
+2024-12-16 17:29:32,603:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,605:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,607:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,610:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,612:WARNING:No user found with ID: 1
+2024-12-16 17:29:32,615:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:29:32,626:INFO:User ID 1 updated: email set to new@example.com
+2024-12-16 17:29:32,629:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,640:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,642:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,645:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,647:WARNING:No user found with ID: 1
+2024-12-16 17:31:25,649:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,652:INFO:User ID 1 deleted successfully.
+2024-12-16 17:31:25,654:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,658:DEBUG:Retrieved 0 users from the database.
+2024-12-16 17:31:25,662:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,665:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,668:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,670:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,672:WARNING:No user found with ID: 1
+2024-12-16 17:31:25,675:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:31:25,686:INFO:User ID 1 updated: email set to new@example.com
+2024-12-16 17:31:25,690:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,692:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,695:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,698:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,700:WARNING:No user found with ID: 1
+2024-12-16 17:32:47,704:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,707:INFO:User ID 1 deleted successfully.
+2024-12-16 17:32:47,710:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,713:DEBUG:Retrieved 2 users from the database.
+2024-12-16 17:32:47,716:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,719:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,722:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,725:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,727:WARNING:No user found with ID: 1
+2024-12-16 17:32:47,730:DEBUG:Database connected and tables created if not existing.
+2024-12-16 17:32:47,744:INFO:User ID 1 updated: email set to new@example.com
+2024-12-16 17:32:47,747:DEBUG:Database connected and tables created if not existing.

@@ -108,6 +108,8 @@ class InventoryManager:
 
             session.delete(item)
             session.commit()
+        except ValueError:
+            raise
         except Exception as e:
             session.rollback()
             raise Exception(f"Failed to delete inventory item: {e}")

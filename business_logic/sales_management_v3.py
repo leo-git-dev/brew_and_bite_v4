@@ -46,6 +46,8 @@ class SalesManager:
                 session.add(new_sale)
 
             session.commit()
+        except ValueError:
+            raise  # Allow ValueError to propagate
         except Exception as e:
             session.rollback()
             raise Exception(f"Error registering sales: {e}")
@@ -89,6 +91,8 @@ class SalesManager:
                 raise ValueError(f"No sales record found with Sales ID {sales_id}.")
             session.delete(sales_record)
             session.commit()
+        except ValueError:
+            raise  # Allow ValueError to propagate
         except Exception as e:
             session.rollback()
             raise Exception(f"Error deleting sales record: {e}")
@@ -114,6 +118,9 @@ class SalesManager:
                 sales_record.total_cost = sales_record.quantity_sold * sales_record.unit_price
 
             session.commit()
+        except ValueError:
+            raise  # Allow ValueError to propagate
+
         except Exception as e:
             session.rollback()
             raise Exception(f"Error updating sales record: {e}")
