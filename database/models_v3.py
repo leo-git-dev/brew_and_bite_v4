@@ -61,7 +61,6 @@ class Sales(Base):
     unit_price = Column(Float, nullable=False)
     total_cost = Column(Float, nullable=False)  # Calculated as quantity_sold * unit_price
     sales_date = Column(DateTime, default=func.now(), nullable=False)  # Now properly using func
-    total_cost = Column(Float, nullable=False)  # Ensure this exists
 
     # Relationship with Inventory
     item = relationship("Inventory", back_populates="sales")
